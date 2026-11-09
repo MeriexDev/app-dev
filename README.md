@@ -1,11 +1,14 @@
-# Game of Thrones
+# Three of my favorite series & Stories
+I like to watch multiple series and I specially love *Game of Thrones*, it has a place in my heart to the point that I would want to buy their merchandise. The other two series I also shared are one of my favorites because of how unique the story is and how they acted in it.
+Enough talking, here are my **TOP 3** favorite shows!
+
+## Game of Thrones
 
 **Game of Thrones** is an American high-fantasy television series created by David Benioff and D. B. Weiss for HBO. Based on George R. R. Martin’s book series A Song of Ice and Fire, the show ran for 8 seasons and 73 episodes from April 2011 to May 2019.
 
-<img width="100" height="150" alt="image" src="https://github.com/user-attachments/assets/dcd2c7d6-fea5-4205-a787-d7c0687698c9" />
-<img width="100" height="150" alt="image" src="https://github.com/user-attachments/assets/e7a1c650-d423-4433-b819-e045eb467faa" />
-<img width="100" height="150" alt="image" src="https://github.com/user-attachments/assets/11f2cf5e-34e9-4b16-8f8c-5a87aad6f536" />
-
+<img width="250" height="350" alt="image" src="https://github.com/user-attachments/assets/dcd2c7d6-fea5-4205-a787-d7c0687698c9" />
+<img width="250" height="350" alt="image" src="https://github.com/user-attachments/assets/e7a1c650-d423-4433-b819-e045eb467faa" />
+<img width="250" height="350" alt="image" src="https://github.com/user-attachments/assets/11f2cf5e-34e9-4b16-8f8c-5a87aad6f536" />
 
 **Core Premise**
 
@@ -16,7 +19,6 @@ Set across the fictional continents of Westeros and Essos, the story revolves ar
 
 • The Threat in the North: The Night's Watch, a sworn military order guarding a massive ice wall at the northern edge of Westeros, tries to warn the realm of an ancient, supernatural army of the dead known as the White Walkers.*
 
-
 **Tone and Style**
 
 • Political Intrigue Over Magic. Fans on Reddit agree that while dragons and magic exist, the story is primarily driven by political rivalries, betrayal, and the complexities of human nature.
@@ -25,16 +27,15 @@ Set across the fictional continents of Westeros and Essos, the story revolves ar
 
 • Critical Reception. The show earned widespread acclaim for its large ensemble cast, moral complexity, and high production value, holding a 9.2/10 rating on IMDb.
 
----
 
-# Stranger Things
+
+## Stranger Things
 
 **Stranger Things** is an American science-fiction horror television series created by the Duffer Brothers. In the Philippines, all five seasons of the series are available to stream on Netflix with a Subscription.
 
-<img width="100" height="150" alt="image" src="https://github.com/user-attachments/assets/6bc9ea0a-5317-48a7-9dc0-47ce763f2720" />
-<img width="100" height="150" alt="image" src="https://github.com/user-attachments/assets/b57725ed-8163-47c2-9498-c2e69cb20088" />
-<img width="100" height="150" alt="image" src="https://github.com/user-attachments/assets/92ffbca3-8011-4e6c-8f06-81256d1ed202" />
-
+<img width="250" height="350" alt="image" src="https://github.com/user-attachments/assets/6bc9ea0a-5317-48a7-9dc0-47ce763f2720" />
+<img width="250" height="350" alt="image" src="https://github.com/user-attachments/assets/b57725ed-8163-47c2-9498-c2e69cb20088" />
+<img width="250" height="350" alt="image" src="https://github.com/user-attachments/assets/92ffbca3-8011-4e6c-8f06-81256d1ed202" />
 
 Series Overview
 
@@ -51,15 +52,15 @@ Following the conclusion of the main show, the franchise continues to expand on 
 
 • Other Worlds: A Stranger Things Adventure. Announced on November 6, 2026 (Stranger Things Day), this upcoming live-action prequel series is set in the 1950s in the fictional town of Marion, Nevada. Longtime series writer Kate Trefry serves as showrunner alongside executive producers Matt and Ross Duffer, with Joe Wright directing the first three episodes.
 
----
 
-# Chainsaw Man
+
+## Chainsaw Man
 
 **Chainsaw Man** is a hit Japanese dark fantasy manga and anime series created by Tatsuki Fujimoto. Set in an alternate 1997 where Devils manifest from human fears, it blends visceral action, dark comedy, and emotional storytelling.
 
-<img width="100" height="150" alt="image" src="https://github.com/user-attachments/assets/4905f9cf-bcac-45e9-aa97-54d17f3a6f7a" />
-<img width="100" height="150" alt="image" src="https://github.com/user-attachments/assets/5279ef8f-ca63-4828-92fa-322e715b3174" />
-<img width="100" height="150" alt="image" src="https://github.com/user-attachments/assets/65d20d8a-1f4a-4284-832a-17284af2db45" />
+<img width="250" height="350" alt="image" src="https://github.com/user-attachments/assets/4905f9cf-bcac-45e9-aa97-54d17f3a6f7a" />
+<img width="250" height="350" alt="image" src="https://github.com/user-attachments/assets/5279ef8f-ca63-4828-92fa-322e715b3174" />
+<img width="250" height="350" alt="image" src="https://github.com/user-attachments/assets/65d20d8a-1f4a-4284-832a-17284af2db45" />
 
 
 Story Overview
